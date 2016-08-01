@@ -1,6 +1,6 @@
 # Vagrant 
 
-Vagrant is used for builing development enviornments. It improves development/production parity by focusing on automation and lowering development environment setup time.
+Vagrant is used for building development enviornments. It improves development/production parity by focusing on automation and lowering development environment setup time.
 
 ## Requirements
 Make sure you don't have anything listening locally on ports 80 and 8080 before continuing.
